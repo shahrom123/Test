@@ -37,6 +37,19 @@
   z-index: 10;
 }
 
+.z-index4 {
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+  height: 100px;
+  background-color: rgb(205, 209, 200);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  z-index: 4;
+}
+
 .container{
     position: relative;
     background-color: green;
